@@ -1,0 +1,14 @@
+.formLogin {
+    margin-top: 100px;
+
+}
+html {
+    background: url('../img/ehbBackground2.jpg') no-repeat center center fixed !important;
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    background-size: cover !important;
+}
+.txtLogin {
+    color:white !important;
+}

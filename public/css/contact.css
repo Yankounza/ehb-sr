@@ -1,0 +1,43 @@
+.headerTittle {
+    margin-bottom: 1em !important;
+    margin-top: 1em !important;
+    color: #ff0000 !important;
+    font-size: 3.5em !important;
+}
+.extraHe {
+    margin-bottom: 5em !important;
+}
+.pText {
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    margin-top: 2em !important;
+    margin-bottom: 2em !important;
+    font-size: 1.3em !important;
+}
+.label {
+    font-size: 1.3em !important;
+}
+.label1 {
+    margin-left: 8% !important;
+}
+.label2 {
+    margin-left: 7% !important;
+}
+.vraag {
+    margin-left: 8% !important;
+    margin-right: 10% !important;
+    margin-bottom: 3em !important;
+}
+.ButVerz {
+    margin-left: 41% !important;
+    margin-bottom: 2em !important;
+    padding-left: 5em !important;
+    padding-right: 5em !important;
+    font-size: 1.3em !important;
+    color: white!important;
+}
+.headerTittle2 {
+    margin-top: 0.5em !important;
+    margin-bottom: 2em !important;
+    color: #ff0000 !important;
+}

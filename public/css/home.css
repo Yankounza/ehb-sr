@@ -1,0 +1,83 @@
+.firstImage {
+    height: 50em !important;
+    background-color:lightcoral;
+}
+.welkomText {
+    padding-top: 2em !important;
+    padding-bottom: auto !important;
+    width: auto;
+    font-size: 6em !important;
+    text-align: center;
+}
+.iconDrop {
+    font-size: 5em !important;
+    margin-left: 48% !important;
+    padding-top: 10% !important;
+}
+.mainGrid {
+    margin-top:10em !important;
+    margin-bottom: 3em !important;
+}
+.firstColumnEvent {
+    width: 39em !important;
+    margin-left: 12%!important;
+}
+.rowFirstColomn {
+    height: 5em;
+}
+.titleEvent {
+    text-align: center;
+    margin-bottom:1em !important;
+    font-size: 2.5em !important;
+    font-weight: bolder!important;
+}
+.colDate {
+    margin-left:2em !important;
+    font-size:1.2em !important;
+    width:3em !important;
+    font-weight: bold !important;
+}
+.colMonth {
+    font-size:1.2em !important;
+    width:7em !important;
+    font-weight: bold !important;
+}
+.colText {
+    width:auto !important;
+    height:auto !important;
+    font-size: 1.3em !important;
+}
+.secondColomnEvent {
+    width: 45em !important;
+    margin-left:5% !important;
+    margin-top: 0em !important;
+}
+.gridSecondEvent {
+    margin-left: 3em !important;
+}
+.rowTittleTopic {
+    font-size: 1.5em !important;
+    font-weight: bold !important;
+}
+.rowCommentsTopic {
+    font-size:1.3em !important;
+    padding-top: 0em !important;
+}
+.StuverDag {
+    margin-bottom: 3em !important;
+}
+.colQuote {
+    width: 80% !important;
+}
+.textQuote {
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+}
+.colStuver {
+    width: 20% !important;
+}
+
+
+.work {
+    width: 100%;
+}

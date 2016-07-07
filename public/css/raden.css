@@ -1,0 +1,102 @@
+.beginText {
+    padding-left: 22% !important;
+    padding-right: 20% !important;
+    padding-top: 2em !important;
+    font-size: 1.7em !important;
+}
+.nivAll {
+    width: 100% !important;
+    margin-bottom: 5em !important;
+
+}
+.niv1 {
+    height: 42em;
+}
+
+.header1 {
+    padding-top: 1em !important;
+    padding-left: 1em !important;
+    color: #ff0000 !important;
+}
+.header2 {
+    padding-left: 1em !important;
+}
+.header3 {
+    text-align: center;
+}
+
+.img {
+    margin-right: 13em !important;
+    margin-top: 2em;
+}
+
+.textVVS {
+    padding-left: 5em;
+    padding-top: 3em;
+    font-size: 1.5em;
+}
+
+.colPicStu {
+    padding-left:9em !important;
+}
+.ui.horizontal.list>.item {
+    margin-left: 6em !important;
+}
+.row {
+    margin-left: 23%!important;
+}
+.row2 {
+    margin-left: 33%!important;
+}
+.row3 {
+    margin-left: 41% !important;
+}
+.bText {
+    padding-left: 13% !important;
+    padding-right: 10% !important;
+    padding-top: 2em !important;
+    font-size: 1.7em !important;
+    padding-bottom: 3em !important;
+}
+
+.UAB {
+    font-size: 1.3em;
+    margin-left: 5.3em;
+}
+.colPicStu2 {
+    margin-bottom: 2em;
+}
+.imgBruss {
+    margin-left: 7em;
+}
+.picStu {
+    margin-left: 2em !important;
+}
+.colsch {
+    margin-left:13em;
+}
+.ButVerz {
+    margin-left: 41% !important;
+    margin-bottom: 2em !important;
+    padding-left: 5em !important;
+    padding-right: 5em !important;
+    font-size: 1.3em !important;
+    color: white!important;
+}
+.oplcom {
+    padding-left: 6%!important;
+    padding-right: 6% !important;
+    padding-bottom: 2em !important;
+}
+.imgFoto {
+    height: 7em !important;
+    width:7em !important;
+}
+.ui.horizontal.list>.item {
+    margin-left: 4em !important;
+}
+.rowExtraLong {
+    text-align: center;
+}
+
+

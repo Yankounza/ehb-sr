@@ -1,0 +1,48 @@
+.headerTittle {
+    margin-bottom: 1em !important;
+    margin-top: 1em !important;
+    color: #ff0000 !important;
+    font-size: 3.5em !important;
+}
+.headerSubTittle {
+    font-size: 1.3em;
+    margin-left: 26%;
+    margin-top: 1em;
+}
+.headerTittle2 {
+    margin-top: 0.5em !important;
+    color: #ff0000 !important;
+}
+.pText1 {
+    font-size: 1.3em !important;
+    margin-left: 5em !important;
+    margin-right: 5em !important;
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+}
+.pText2 {
+    font-size: 1.3em;
+    margin-left: 5em;
+    margin-right: 5em;
+    margin-top: 4em;
+    margin-bottom: 1em;
+}
+.BulletList {
+    margin-left: 7.25rem !important;
+    margin-right: 16em !important;
+    font-size: 1.2em !important;
+}
+.BulletListHeader {
+    font-size: 1.28rem !important;
+    color: #e60000 !important;
+    margin-left: 5em !important;
+}
+.ButSchrijfIn {
+    margin-left: 42% !important;
+    margin-top: 2em !important;
+    font-size: 1.3em!important;
+    color:white!important;
+}
+.extraHe {
+    margin-bottom: 5em !important;
+}
